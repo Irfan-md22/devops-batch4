@@ -1,1 +1,2 @@
 created file C after setting up the remote github repo
+updating the C.txt
